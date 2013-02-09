@@ -1,0 +1,25 @@
+{
+    "name": "wxi/class-mysql",
+    "type": "library",
+    "version":"1.0",
+    "description": "MySQL Class for PHP",
+    "keywords": ["mysql","database"],
+    "homepage": "http://github.com/aponxi/php-class-mysql",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Logan Howlett",
+            "email": "info@weaponxi.com",
+            "homepage": "http://weaponxi.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "wxi": "src"
+        }
+    }
+}
