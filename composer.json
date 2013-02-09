@@ -1,7 +1,7 @@
 {
     "name": "wxi/class-mysql",
     "type": "library",
-    "version":"1.0",
+    "version":"1.0.1",
     "description": "MySQL Class for PHP",
     "keywords": ["mysql","database"],
     "homepage": "http://github.com/aponxi/php-class-mysql",
